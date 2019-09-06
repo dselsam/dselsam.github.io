@@ -2,6 +2,7 @@
 layout: post
 title:  "The \"Terpret Problem\" and the limits of SGD"
 date:   2018-07-21 00:00:01
+permalink: /the-terpret-problem/
 ---
 Many AI researchers (myself included) are optimistic that stochastic gradient descent (SGD) can somehow be leveraged to help learn sophisticated computer programs. My colleagues and I recently showed that SGD over a graph neural network [can learn a local search procedure for the boolean satisfiability problem](https://arxiv.org/abs/1802.03685), even though the function it is trying to learn is extremely sensitive to individual bits in the input.
 

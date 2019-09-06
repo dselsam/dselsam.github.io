@@ -4,7 +4,7 @@ I consider the central empirical finding of the first 65 years of AI research to
 
 - [Neural networks, Occam's razor, and heuristic search](posts/2018-09-16-neural-networks-occams-razor.md)
 - [QuickSpec and the quest for good lemmas](posts/2018-07-21-quickspec.md)
-- [The "TerpreT problem" and the limits of SGD](posts/2018-07-15-the-terpret-problem.md)
+- [The "TerpreT problem" and the limits of SGD](/the-terpret-problem/)
 - [The general intelligence hypothesis](posts/2018-07-08-the-general-intelligence-hypothesis.md)
 - [Search vs. meta-search](posts/2018-07-01-search-vs-meta-search.md)
 - [Mathematics: our overlooked ability](posts/2018-06-24-mathematics-our-overlooked-ability.md)
