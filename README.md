@@ -1,4 +1,9 @@
+<center><em>What does it take...to split the thought stream?</em></center>
+<br>
 I consider the central empirical finding of the first 65 years of AI research to be that despite several mastered domains and many useful technologies, an ocean of complexity still lurks beneath almost every seemingly innocuous task. Our attempts to match humans have mostly yielded systems that are woefully brittle or degenerate or both. How are humans so incredibly good at so many things that were not present in the ancestral environment? How did these abilities develop so suddenly in early humans? Evolution could not possibly have solved one by one all the immensely hard problems AI researchers have been trying to solve. We must be on the wrong path. There must be a better way.
+
+## News
+- Started the [IMO Grand Challenge](https://IMO-grand-challenge.github.io): build an AI that can win a gold medal in the IMO.
 
 ## Posts
 
