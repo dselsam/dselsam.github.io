@@ -39,3 +39,7 @@ I consider the central empirical finding of the first 65 years of AI research to
 - [NeuroSAT](https://github.com/dselsam/neurosat)
 - [Certigrad](https://github.com/dselsam/certigrad)
 - [Lean](https://github.com/leanprover/lean)
+
+## Misc
+
+- [New lyrics for Auld Lang Syne](misc/eallniwe-anginn.md)
