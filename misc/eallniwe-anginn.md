@@ -22,7 +22,7 @@ Should auld acquaintance be forgot<br>
 For ealln&iacute;we anginn?
 
 <p>
-Surely you'll buy your pint cup<br>
+And surely you'll buy your pint cup<br>
 And surely I'll buy mine<br>
 We raise a toast to days to come<br>
 For ealln&iacute;we anginn
