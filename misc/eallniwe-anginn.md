@@ -6,7 +6,7 @@ title:  "Ealln&iacute;we Anginn"
 Here are new lyrics to the classic folk song, Auld Lang Syne.
 The new title is <i>Ealln&iacute;we Anginn</i>,
 which is Old English for "all new beginning"
-and which we pronounce as "ah-ll ni-way an-gine".
+and which we pronounce as "EE-ah-ll ni-way an-gine".
 The lyrics foster not only celebrating the old for the sake of days gone by,
 but also celebrating with the old the promise of now diverging futures.
 
