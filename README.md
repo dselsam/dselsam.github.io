@@ -25,21 +25,23 @@ I consider the central empirical finding of the first 65 years of AI research to
 
 ## Publications
 
-- [Tabled Typeclass Resolution](https://arxiv.org/abs/2001.04301).
-- [Neural Networks and the Satisfiability Problem](https://searchworks.stanford.edu/view/13250178). Dissertation.
-- [Guiding High-Performance SAT Solvers with Unsat-Core Predictions](https://arxiv.org/abs/1903.04671). SAT 2019.
-- [Learning a SAT Solver from Single-Bit Supervision](https://arxiv.org/abs/1802.03685). ICLR 2019.
-- [Developing Bug-Free Machine Learning Systems Using Formal Mathematics](https://arxiv.org/abs/1706.08605). ICML 2017.
-- [Congruence Closure in Intensional Type Theory](https://arxiv.org/abs/1701.04391). IJCAR 2016.
-- [Data Programming: Creating Large Training Sets, Quickly](https://arxiv.org/abs/1605.07723). NIPS 2016.
-- [Venture: A Higher-Order Probabilistic Programming Platform with Programmable Inference](https://arxiv.org/abs/1404.0099).
+- [Sealing Pointer-Based Optimizations Behind Pure Functions](https://arxiv.org/abs/2003.01685)
+- [Tabled Typeclass Resolution](https://arxiv.org/abs/2001.04301)
+- [Neural Networks and the Satisfiability Problem](https://searchworks.stanford.edu/view/13250178) (Dissertation)
+- [Guiding High-Performance SAT Solvers with Unsat-Core Predictions](https://arxiv.org/abs/1903.04671) (SAT 2019)
+- [Learning a SAT Solver from Single-Bit Supervision](https://arxiv.org/abs/1802.03685) (ICLR 2019)
+- [Developing Bug-Free Machine Learning Systems Using Formal Mathematics](https://arxiv.org/abs/1706.08605) (ICML 2017)
+- [Congruence Closure in Intensional Type Theory](https://arxiv.org/abs/1701.04391) (IJCAR 2016)
+- [Data Programming: Creating Large Training Sets, Quickly](https://arxiv.org/abs/1605.07723) (NIPS 2016)
+- [Venture: A Higher-Order Probabilistic Programming Platform with Programmable Inference](https://arxiv.org/abs/1404.0099)
 
 ## Code
 
+- [Lean4](https://github.com/leanprover/lean4)
+- [Lean3](https://github.com/leanprover/lean)
 - [NeuroCore](https://github.com/dselsam/neurocore-public)
 - [NeuroSAT](https://github.com/dselsam/neurosat)
 - [Certigrad](https://github.com/dselsam/certigrad)
-- [Lean](https://github.com/leanprover/lean)
 
 ## Misc
 
