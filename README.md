@@ -26,7 +26,7 @@ I consider the central empirical finding of the first 65 years of AI research to
 ## Publications
 
 - [Sealing Pointer-Based Optimizations Behind Pure Functions](https://arxiv.org/abs/2003.01685)
-- [Tabled Typeclass Resolution](https://arxiv.org/abs/2001.04301)
+- [Tabled Typeclass Resolution](https://arxiv.org/abs/2001.04301) (Rejected from IJCAR 2020)
 - [Neural Networks and the Satisfiability Problem](https://searchworks.stanford.edu/view/13250178) (Dissertation)
 - [Guiding High-Performance SAT Solvers with Unsat-Core Predictions](https://arxiv.org/abs/1903.04671) (SAT 2019)
 - [Learning a SAT Solver from Single-Bit Supervision](https://arxiv.org/abs/1802.03685) (ICLR 2019)
