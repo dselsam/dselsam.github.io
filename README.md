@@ -38,8 +38,8 @@ I consider the central empirical finding of the first 65 years of AI research to
 ## Code
 
 - [Lean4](https://github.com/leanprover/lean4)
-- [Arc](https://github.com/dselsam/arc)
-- [Ltc](https://github.com/leanprover/tc)
+- [Arc solver](https://github.com/dselsam/arc)
+- [Lean3 type checker](https://github.com/leanprover/tc)
 - [Lean3](https://github.com/leanprover/lean)
 - [NeuroCore](https://github.com/dselsam/neurocore-public)
 - [NeuroSAT](https://github.com/dselsam/neurosat)
