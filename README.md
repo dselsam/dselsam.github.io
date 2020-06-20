@@ -25,11 +25,11 @@ I consider the central empirical finding of the first 65 years of AI research to
 
 ## Publications
 
-- [Sealing Pointer-Based Optimizations Behind Pure Functions](https://arxiv.org/abs/2003.01685)
+- [Sealing Pointer-Based Optimizations Behind Pure Functions](https://arxiv.org/abs/2003.01685) (ICFP 2020)
 - [Tabled Typeclass Resolution](https://arxiv.org/abs/2001.04301) (Rejected from IJCAR 2020)
 - [Neural Networks and the Satisfiability Problem](https://searchworks.stanford.edu/view/13250178) (Dissertation)
 - [Guiding High-Performance SAT Solvers with Unsat-Core Predictions](https://arxiv.org/abs/1903.04671) (SAT 2019)
-- [Learning a SAT Solver from Single-Bit Supervision](https://arxiv.org/abs/1802.03685) (ICLR 2019)
+- [Learning a SAT Solver from Single-Bit Supervision](https://arxiv.org/abs/1802.03685) (ICLR 2019, Rejected from ICML 2018, NIPS 2018)
 - [Developing Bug-Free Machine Learning Systems Using Formal Mathematics](https://arxiv.org/abs/1706.08605) (ICML 2017)
 - [Congruence Closure in Intensional Type Theory](https://arxiv.org/abs/1701.04391) (IJCAR 2016)
 - [Data Programming: Creating Large Training Sets, Quickly](https://arxiv.org/abs/1605.07723) (NIPS 2016)
