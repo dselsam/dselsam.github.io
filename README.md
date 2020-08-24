@@ -19,6 +19,7 @@ I consider the central empirical finding of the first 65 years of AI research to
 
 ## Videos
 
+- [Presented at ICFP 2020](https://youtu.be/i9wgeX7e-nc?t=3479)
 - [Presented NeuroSAT at MSR](https://www.youtube.com/watch?v=EqvzIGY_bI4)
 - [Presented at ICML 2017](https://vimeo.com/238227789)
 - [Presented Certigrad at MSR](https://www.youtube.com/watch?v=-A1tVNTHUFw)
