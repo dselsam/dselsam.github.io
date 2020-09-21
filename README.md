@@ -19,7 +19,7 @@ I consider the central empirical finding of the first 65 years of AI research to
 
 ## Videos
 
-- [Invited talk on IMO Grand Challenge at AITP 2020](http://grid01.ciirc.cvut.cz/~mptp/zoomaitp/aitp_sep_15_1930.mp4)
+- [Invited talk on IMO Grand Challenge at AITP 2020](https://www.youtube.com/watch?v=GtAo8wqWHHg)
 - [Presented at ICFP 2020](https://youtu.be/i9wgeX7e-nc?t=3479)
 - [Presented NeuroSAT at MSR](https://www.youtube.com/watch?v=EqvzIGY_bI4)
 - [Presented at ICML 2017](https://vimeo.com/238227789)
