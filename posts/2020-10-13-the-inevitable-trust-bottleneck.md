@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "The Obvious, Crippling Limitation of ML"
+title:  "The Inevitable Trust Bottleneck"
 date:   2020-10-13 00:00:01
-permalink: /the-obvious-crippling-limitation-of-ml/
+permalink: /the-inevitable-trust-bottleneck/
 ---
 
-The obvious, crippling limitation of ML is that since its outputs cannot be trusted,
+An obvious and important limitation of ML is that since its outputs cannot be trusted,
 its usefulness in a domain is upper-bounded by the gap in difficulty between verifying a correct guess and finding a solution through other means.
 This is a weak upper-bound in practice, since today's ML is extremely unlikely to make correct guesses in the first place in challenging domains.
 
