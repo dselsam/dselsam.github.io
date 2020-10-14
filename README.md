@@ -7,6 +7,7 @@ I consider the central empirical finding of the first 65 years of AI research to
 
 ## Posts
 
+- [Why IMO is Grand](/why-IMO-is-grand/)
 - [The Inevitable Trust Bottleneck](/the-inevitable-trust-bottleneck/)
 - [An Even More Bitter Lesson](/an-even-more-bitter-lesson/)
 - [Neural networks, Occam's razor, and heuristic search](posts/2018-09-16-neural-networks-occams-razor.md)
