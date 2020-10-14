@@ -12,7 +12,7 @@ and thus its importance is not self-evident.
 
 I think the IMO Grand Challenge is extremely important due to a confluence of factors:
 
-1. It is impossible with today's technology---so impossible that we have been ridiculed from people in many related subfields for even suggesting it as a goal.
+1. It is impossible with today's technology---so impossible that we have been all but ridiculed by people in multiple subfields for even suggesting it as a goal.
 2. It is probably impossible to "hack" it without developing powerful general-purpose methods. A winning system could likely be repurposed to revolutionize mathematics and software engineering.
 3. There is major uncertainty about what *paradigm* could possibly win.
 
@@ -30,7 +30,7 @@ If it can win a gold medal within ten years, I will resign.
 
 - *ML-kernel*. Here the network operates in formal logic rather than informal logic so that search
 can be performed over the network's guesses without humans in the loop. This approach requires formalizing all the lemmas
-that might be needed within the formal proofs. We use the name *kernel* to stress that the only role of the formal system is to verify (not to automate).
+that might be needed within the formal proofs. We use the name *kernel* to stress that the only role of the formal system is to verify and that it is not being used to automate.
 I don't think this approach makes sense because formal proofs can be enormous and there are well-established procedures that can efficiently construct them from much smaller certificates.
 
 - *ML-solver*. Instead of producing formal proofs directly, here the neural network's role is to split a problem into a sequence of easier problems that a black-box solver
