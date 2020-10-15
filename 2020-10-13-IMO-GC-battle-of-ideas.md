@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Why IMO is Grand"
+title:  "The IMO Grand Challenge: A Battle of Ideas"
 date:   2020-10-13 00:00:01
-permalink: /why-IMO-is-grand/
+permalink: /IMO-GC-battle-of-ideas/
 ---
 
 Last year a handful of colleagues and I proposed a [grand challenge](https://imo-grand-challenge.github.io/): build an AI that can
