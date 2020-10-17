@@ -50,6 +50,10 @@ I consider the central empirical finding of the first 65 years of AI research to
 - [NeuroSAT](https://github.com/dselsam/neurosat)
 - [Certigrad](https://github.com/dselsam/certigrad)
 
+## Example Olympiad Problems
+
+- [IMO 2018 P3](/IMO-2018-P3/)
+
 ## Misc
 
 - [New lyrics for Auld Lang Syne](misc/eallniwe-anginn.md)
