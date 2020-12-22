@@ -30,6 +30,8 @@ I consider the central empirical finding of the first 65 years of AI research to
 
 ## Publications
 
+- [Universal Policies for Software-Defined MDPs](https://arxiv.org/abs/2012.11401)
+- [Automatically Building Diagrams for Olympiad Geometry Problems](https://arxiv.org/abs/2012.02590)
 - [Sealing Pointer-Based Optimizations Behind Pure Functions](https://arxiv.org/abs/2003.01685) (ICFP 2020)
 - [Tabled Typeclass Resolution](https://arxiv.org/abs/2001.04301) (Rejected from IJCAR 2020)
 - [Neural Networks and the Satisfiability Problem](https://searchworks.stanford.edu/view/13250178) (Dissertation)
