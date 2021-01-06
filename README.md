@@ -55,6 +55,7 @@ I consider the central empirical finding of the first 65 years of AI research to
 ## Example Olympiad Problems
 
 - [IMO 2018 P3](/IMO-2018-P3/)
+- [IMO 2020 P5](/IMO-2020-P5/)
 
 ## Misc
 
