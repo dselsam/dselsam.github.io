@@ -7,9 +7,9 @@ I consider the central empirical finding of the first 65 years of AI research to
 
 ## Posts
 
-- [The IMO Grand Challenge: A Battle of Ideas](/IMO-GC-battle-of-ideas/)
-- [The Inevitable Trust Bottleneck](/the-inevitable-trust-bottleneck/)
-- [An Even More Bitter Lesson](/an-even-more-bitter-lesson/)
+- [The IMO Grand Challenge: A battle of ideas](/IMO-GC-battle-of-ideas/)
+- [The inevitable trust bottleneck](/the-inevitable-trust-bottleneck/)
+- [An even more bitter lesson](/an-even-more-bitter-lesson/)
 - [Neural networks, Occam's razor, and heuristic search](posts/2018-09-16-neural-networks-occams-razor.md)
 - [QuickSpec and the quest for good lemmas](posts/2018-07-21-quickspec.md)
 - [The "TerpreT problem" and the limits of SGD](/the-terpret-problem/)
