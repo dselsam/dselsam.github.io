@@ -64,4 +64,5 @@ I consider the central empirical finding of the first 65 years of AI research to
 
 ## Misc
 
-- [New lyrics for Auld Lang Syne](misc/eallniwe-anginn.md)
+- [Ealln&iacute;we Anginn (new lyrics for Auld Lang Syne)](misc/eallniwe-anginn.md)
+- [Slipperees (silent alternative to burpees)](misc/slipperee.md)
