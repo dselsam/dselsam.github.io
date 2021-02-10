@@ -31,7 +31,7 @@ I consider the central empirical finding of the first 65 years of AI research to
 ## Publications
 
 - [Universal Policies for Software-Defined MDPs](https://arxiv.org/abs/2012.11401)
-- [$k$-Equivalence Relations and Associated Algorithms](https://arxiv.org/abs/2102.04633)
+- [\\(k\\)-Equivalence Relations and Associated Algorithms](https://arxiv.org/abs/2102.04633)
 - [Automatically Building Diagrams for Olympiad Geometry Problems](https://arxiv.org/abs/2012.02590)
 - [Sealing Pointer-Based Optimizations Behind Pure Functions](https://arxiv.org/abs/2003.01685) (ICFP 2020)
 - [Tabled Typeclass Resolution](https://arxiv.org/abs/2001.04301) (Rejected from IJCAR 2020)
